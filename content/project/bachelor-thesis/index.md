@@ -9,7 +9,7 @@ date: '2023-09-01T00:00:00Z'
 external_link: ''
 
 url_code: ''
-url_pdf: 'uploads/harsha_resume.pdf'
+url_pdf: 'uploads/thesis_report.pdf'
 url_slides: ''
 url_video: ''
 
