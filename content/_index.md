@@ -62,19 +62,37 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Scientist
-          company: Siemens Healthineers
+        - title: Teaching Assistant
+          company: Aalto University
           company_url: ''
-          company_logo: org-gc
-          location: California
+          company_logo: aalto
+          location: Finland
+          date_start: '2023-09-01'
+          date_end: '2023-12-31'
+          description: |2-
+              * For Digital and Optimal Control course taught by Dominik Baumann.
+              * Handle homework sessions, assist with exercise sessions, grade assignments and exam.
+        
+        - title: Research Assistant
+          company: Intelligent Robotics Lab, Aalto University
+          company_url: ''
+          company_logo: aalto
+          location: Finland
           date_start: '2020-08-03'
           date_end: '2022-07-06'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * At Intelligent Robotics Lab led by Ville Kyrki.
+              * Created environments to simulate tote bags in Isaac Sim.
+        - title: Data Scientist
+          company: Siemens Healthineers
+          company_url: ''
+          company_logo: siemens
+          location: Bangalore, India
+          date_start: '2020-08-03'
+          date_end: '2022-07-06'
+          description: |2-
+              * Developed algorithm to detect abnormalities in Quality Control of Assay Analyzers, which in turn is used to predict health of those machines. It reduced downtime of Assay Analyzers by 40\%.
+              * Worked on data extraction and feature engineering from machine log data of CT machines to predict the health of X Ray Tube.
         # - title: Professor of Semiconductor Physics
         #   company: University X
         #   company_url: ''
