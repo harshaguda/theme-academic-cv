@@ -75,8 +75,8 @@ skills:
       - name: Bouldering
         description: ''
         percent: 60
-        icon: cat
-        icon_pack: fas
+        icon: rockclimbing
+        icon_pack: brands
       - name: Cooking
         description: ''
         percent: 80
