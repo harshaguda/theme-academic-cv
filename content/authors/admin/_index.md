@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Harsha Guda
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Harsha Vardhan 
+last_name: Guda
 
 # Status emoji
 status:
@@ -17,31 +17,31 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Aalto University
+    url: https://www.aalti.fi/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Computer Vision
+  - Robotics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: MS in Control, Robotics and Autonomous Systems
+      institution: Aalto University, Finland.
+      year: expected 2024
+    - course: BTech in Electronics and Communication Engineering
+      institution: National Institute of Technology Calicut, India
+      year: 2020
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
