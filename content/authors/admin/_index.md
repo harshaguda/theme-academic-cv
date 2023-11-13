@@ -22,7 +22,7 @@ superuser: true
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Aalto University
-    url: https://www.aalti.fi/
+    url: https://www.aalto.fi/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -42,9 +42,6 @@ education:
     - course: BTech in Electronics and Communication Engineering
       institution: National Institute of Technology Calicut, India
       year: 2020
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -56,9 +53,9 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Reinforcement Learning
         description: ''
-        percent: 100
+        percent: 40
         icon: chart-line
         icon_pack: fas
       - name: SQL
@@ -75,12 +72,12 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Bouldering
         description: ''
-        percent: 100
+        percent: 60
         icon: cat
         icon_pack: fas
-      - name: Photography
+      - name: Cooking
         description: ''
         percent: 80
         icon: camera-retro
@@ -114,11 +111,11 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/harsha_resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a master's student at Aalto University, Finland. Currently working on my thesis titled - 'Learning-based dynamic Manipulation of Deformable Objects.' I am actively looking for PhD position in the field of reinforcement learnig with application in robotics. 
 {style="text-align: justify;"}
