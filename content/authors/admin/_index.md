@@ -58,11 +58,12 @@ skills:
         percent: 40
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: PyTorch
         description: ''
-        percent: 40
-        icon: database
+        percent: 70
+        icon: pytorch
         icon_pack: fas
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -88,9 +89,9 @@ skills:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: '/#contact'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=Z4pLlJUAAAAJ&hl=en
@@ -99,7 +100,7 @@ social:
     link: https://github.com/harshaguda
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/harsha-vardhan-guda/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
