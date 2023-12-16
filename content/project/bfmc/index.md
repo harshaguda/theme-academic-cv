@@ -1,7 +1,8 @@
 ---
 title: BFMC 2023
 summary: My experience with BFMC 2023.
-  - Reinforcement Learning
+tags:
+  - Demo
 date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -3,6 +3,7 @@ title: Learning to Manipulate Deformable Objects - Plastic Bags
 summary: An example of using the in-built project page.
 tags:
   - Reinforcement Learning
+  - Robotics
 date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

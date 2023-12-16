@@ -2,7 +2,8 @@
 title: Interactive Robot for Reception and Medical Care (Project RIGGU)
 summary: summary todo
 tags:
-  - Deep Learning, ROS
+  - Computer Vision
+  - Robotics
 date: '2023-09-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
