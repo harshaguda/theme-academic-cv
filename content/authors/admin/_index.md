@@ -25,7 +25,7 @@ organizations:
     url: https://www.aalto.fi/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include reinforcement learning, computer vision and robotics.
 
 # Interests to show in About widget
 interests:
@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am a master's student at Aalto University, Finland. Currently working on my thesis titled - 'Learning-based dynamic Manipulation of Deformable Objects.' I am actively looking for PhD position in the field of reinforcement learnig with application in robotics. 
+I am a master's student at Aalto University, Finland. Currently working on my thesis titled - 'Learning-based dynamic Manipulation of Deformable Objects.' I am actively looking for PhD position in the field of reinforcement learning with application in robotics. 
 {style="text-align: justify;"}
