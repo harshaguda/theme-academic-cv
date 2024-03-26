@@ -203,6 +203,7 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+    ![](https://hit.yhype.me/github/profile?user_id=29888294)
   # - block: markdown
   #   content:
   #     title: Gallery
